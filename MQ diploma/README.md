@@ -6,7 +6,7 @@
 
 Макеты сайта для различных экранов выглядят так:
 
-![Layout](sourses/layouts.jpg)
+![Layout](https://github.com/OxanaGal/Netology_projects/blob/0c89cc38a0766a90aef6ab3af10ed8887b63a3c6/sourses/layouts.jpg)
 
 
 ### Кроссбраузерная вёрстка
@@ -42,7 +42,7 @@
 
 Для устройств с шириной экрана от 640px и меньше, при портретной ориентации экрана одна колонка с карточками, а при пейзажной — две.
 
-![Layout](sourses/rotation.jpg)
+![Layout](https://github.com/OxanaGal/Netology_projects/blob/0c89cc38a0766a90aef6ab3af10ed8887b63a3c6/sourses/rotation.jpg)
 
 ### Вёрстка всплывающей формы (попап)
 Макет содержит всплывающую форму на слое `Popup`, этот слой по умолчанию скрыт. Свёрстанная форма отображается по центру экрана, поверх вуали, затемняющей страницу. 
